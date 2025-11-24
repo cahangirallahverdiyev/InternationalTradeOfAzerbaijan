@@ -6,7 +6,7 @@ Bu repozitoriya, Dövlət Statistika Komitəsinin məlumatları əsasında Azər
 
 Power BI Faylı: Azərbaycan xarici ticarətinin əsas göstəriciləri və trend analizləri interaktiv və vizual şəkildə təqdim olunur.
 
-PDF Faylı: Təhlilin ətraflı izahı və statistik məlumatlar PDF formatında təqdim edilir.
+PDF Faylı: Təhlilin ətraflı izahı və hesabat PDF formatında təqdim edilir.
 
 📌 Əsas Mövzular
 
