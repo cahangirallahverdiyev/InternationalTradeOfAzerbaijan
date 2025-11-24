@@ -2,7 +2,7 @@
 
 Bu repozitoriya, Dövlət Statistika Komitəsinin məlumatları əsasında Azərbaycanın xarici ticarətinin ətraflı təhlilini təqdim edir. Power BI və PDF formatlarında hazırlanan sənədlərlə, Azərbaycanın idxal və ixrac göstəricilərini daha dərindən araşdıra bilərsiniz.
 
-💼 Nə Təqdim Edirik?
+💼 Nə Təqdim Edirəm?
 
 Power BI Faylı: Azərbaycan xarici ticarətinin əsas göstəriciləri və trend analizləri interaktiv və vizual şəkildə təqdim olunur.
 
